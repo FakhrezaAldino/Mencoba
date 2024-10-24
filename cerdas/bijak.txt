@@ -1,0 +1,7 @@
+@@id_pelanggan,nama,alamat,no_telepon,email,tanggal_lahir,status
+@@===========================
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@iniadalahdatasoalUTS
+"Budi","JL.Anggrek No.1","+6281123456789","Budi@example.com","1980-01-01","aktif"
+"Ani","Jl.Melati No.2","+628901234567","ani@example.com","1985-02-02","aktif"
+"Cici","JL.Mawar No.3","+628765432100","cici@example.com","1990-03-03","aktif"
